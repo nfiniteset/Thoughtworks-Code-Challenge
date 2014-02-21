@@ -53,8 +53,3 @@ describe Receipt do
     end
   end
 end
-
-
-
-
-
